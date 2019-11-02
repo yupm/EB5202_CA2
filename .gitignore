@@ -34,3 +34,5 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+origin_destination_bus_201909.csv
+transport_node_bus_201909.csv
